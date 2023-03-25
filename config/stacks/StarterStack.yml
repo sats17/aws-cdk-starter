@@ -1,0 +1,8 @@
+StackName: 'StarterStack'
+Environment: 'Dummy'
+Version: 1.0.0
+Build: '1'
+
+Common:
+  AWS_REGION: 'us-east-1'
+  AWS_ACCOUNT: 'AWS_ACCOUNT_NUMBER'
